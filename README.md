@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif"  />
-</div>
 
 <h1 align="left">Hi!, I'm Jash</h1>
 
