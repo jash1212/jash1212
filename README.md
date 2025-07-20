@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">💻 A Full-stack Developer | 🧠 Problem Solver<br>🚀 I enjoy exploring new technologies.<br>🧩 Big fan of brain-twisting problems — DSA keeps me sharp and slightly 🤯.</p>
+<p align="left">💻 A Full-stack Developer | 🧠 Problem Solver<br>🚀 I enjoy exploring new technologies</p>
 
 ###
 
